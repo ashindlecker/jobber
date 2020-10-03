@@ -1,6 +1,6 @@
 {
   "name": "jobberjs",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "description": "3rd party library for retrieving jobs from job boards",
   "license": "MIT",
   "author": "Austin Shindlecker",
@@ -31,5 +31,10 @@
     "axios": "^0.20.0",
     "cheerio": "^1.0.0-rc.3",
     "turndown": "^6.0.0"
-  }
+  },
+  "keywords": [
+    "LinkedIn",
+    "Job Search",
+    "Job Boards"
+  ]
 }

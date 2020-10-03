@@ -12,8 +12,6 @@
 
 `yarn install jobberjs`
 
-<br/>
-
 ## Usage
 Fetch Full Stack positions in New York and get the job description of the first result:
 ```javascript
