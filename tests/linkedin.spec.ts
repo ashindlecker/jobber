@@ -83,7 +83,7 @@ describe('LinkedIn', () => {
             validateParsedSampleSearchHtmlResults(await api.getSearchResults({
                 location: 'remote',
                 keywords: 'javascript',
-                starting: 0
+                startingIndex: 0
             }));
             //Test default starting value (should be 0)
             validateParsedSampleSearchHtmlResults(await api.getSearchResults({

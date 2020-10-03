@@ -10,7 +10,11 @@ export interface HttpFetcher {
         data: string
     }>
 }
-
+export type SearchParameters = {
+    location: string, 
+    keywords: string, 
+    startingIndex?: number
+}
 /**
  * LinkedInAPI performs searches and gets details of a LinkedIn job
  */
@@ -18,7 +22,7 @@ export default class LinkedInAPI {
     private httpFetcher: HttpFetcher;
 
     constructor(fetcher?: HttpFetcher) {
-        if(!fetcher) {
+        if (!fetcher) {
             this.httpFetcher = axios;
         }
         else {
@@ -34,12 +38,12 @@ export default class LinkedInAPI {
      * Perform a LinkedIn job search
      * @param params 
      */
-    public async getSearchResults(params: { location: string, keywords: string, starting?: number }) {
-        if (params.starting === undefined) {
-            params.starting = 0;
+    public async getSearchResults(params: SearchParameters) {
+        if (params.startingIndex === undefined) {
+            params.startingIndex = 0;
         }
 
-        const route = `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${params.keywords}&location=${params.location}&start=${params.starting}`
+        const route = `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${params.keywords}&location=${params.location}&start=${params.startingIndex}`
         const response = await this.httpFetcher.get(route);
 
         return searchResultsParser(response.data)
