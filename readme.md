@@ -72,7 +72,7 @@ const jobberjs = require('jobberjs');
 
 **JobDescription**
 
-*Defined in [linkedin/job-description-parser.ts:17](https://github.com/ashindlecker/jobber/blob/2490a6f/src/linkedin/job-description-parser.ts#L17)*
+*Defined in [linkedin/job-description-parser.ts:17](https://github.com/ashindlecker/jobber/tree/master/src/linkedin/job-description-parser.ts#L17)*
 
 Description of a LinkedIn Job
 
@@ -88,7 +88,7 @@ Name | Type | Description |
 ---
 **JobCriteriaItem**
 
-*Defined in [linkedin/job-description-parser.ts:9](https://github.com/ashindlecker/jobber/blob/2490a6f/src/linkedin/job-description-parser.ts#L9)*
+*Defined in [linkedin/job-description-parser.ts:9](https://github.com/ashindlecker/jobber/tree/master/src/linkedin/job-description-parser.ts#L9)*
 
 Additional information for a LinkedIn Job
 
@@ -104,7 +104,7 @@ Name | Type |
 ---
 **JobSearchItem**
 
-*Defined in [linkedin/search-parser.ts:6](https://github.com/ashindlecker/jobber/blob/2490a6f/src/linkedin/search-parser.ts#L6)*
+*Defined in [linkedin/search-parser.ts:6](https://github.com/ashindlecker/jobber/tree/master/src/linkedin/search-parser.ts#L6)*
 
 JobSearchItem represents an item of a LinkedIn job search
 
