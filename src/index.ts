@@ -1,7 +1,1 @@
-import LinkedInAPI from './linkedin/api'
-
-const jobber = {
-    LinkedInAPI: LinkedInAPI
-}
-
-export default jobber;
+export { default as LinkedInAPI } from './linkedin/api'

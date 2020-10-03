@@ -2,12 +2,18 @@ import axios from 'axios';
 import searchResultsParser, { JobSearchItem } from './search-parser'
 import jobDescriptionParser from './job-description-parser'
 
+/**
+ * Performs Get requests to URLs and returns a promise to a string of data as a response
+ */
 export interface HttpFetcher {
     get(url: string): Promise<{
         data: string
     }>
 }
 
+/**
+ * LinkedInAPI performs searches and gets details of a LinkedIn job
+ */
 export default class LinkedInAPI {
     private httpFetcher: HttpFetcher;
 
@@ -24,6 +30,10 @@ export default class LinkedInAPI {
         return this.httpFetcher;
     }
 
+    /**
+     * Perform a LinkedIn job search
+     * @param params 
+     */
     public async getSearchResults(params: { location: string, keywords: string, starting?: number }) {
         if (params.starting === undefined) {
             params.starting = 0;
@@ -35,6 +45,10 @@ export default class LinkedInAPI {
         return searchResultsParser(response.data)
     }
 
+    /**
+     * Get description of a specific job
+     * @param jobID string id of LinkedIn job, or JobSearchItem object
+     */
     public async getJobDescription(jobID: string | JobSearchItem) {
         let id = '';
         if (typeof (jobID) === 'string') {
