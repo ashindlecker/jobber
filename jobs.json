@@ -1,0 +1,829 @@
+yarn run v1.21.1
+$ ts-node src
+[
+  {
+    "title": "Jr. Front End Developer",
+    "company": "PrimeGov",
+    "descriptionMarkdown": "PrimeGov is looking for a passionate and dynamic Jr Front End Developer to join our Design Services team as part of the Professional Services group. They will be responsible for providing technical services for both the Customer Success and Professional Services Teams. This position will provide the technical design of document templates displayed on the screen, PDF, and Word versions as well as front end web design, web and forms, and business workflow configurations. A successful candidate will rely on their attention to detail, technical knowledge, and passion for improving and learning to ensure outputs are delivered in the utmost quality and satisfaction.  \n  \nThis role will be at our headquarters in Phoenix, AZ.  \n  \n**Your Impact  \n**\n\n*   Provide support to client teams in concurrent projects as well as existing customers through web, and front end expertise.\n*   Develop, implement, and maintain front end application with HTML, CSS, JavaScript, JQuery and SQL.\n*   Create and maintain customer HTML forms, customer workflows, customer displays, manage customer configurations, and maintain word document templates.\n*   Conduct cross-browser and multi-device testing and performance optimization.\n*   Engage with cross-functional teams with varying levels of seniority and experience to support various programs and client needs\n*   Help determine best methods to perform tasks; complete projects, and makes recommendations for future process enhancements as it relates to front end development and optimization.\n*   Perform standard reporting for management.\n*   Maintain detailed, organized documentation of client projects using hosted project management tools.\n*   Provide timely, helpful, and thorough responses and resolutions to inquiries and requests.\n\nWhat we're looking for:  \n\n*   Strong knowledge of HTML5,CSS3, SCSS, JavaScript, JQuery, SQL, and Word.\n*   Good understanding of application programming interfaces(API)\n*   Familiarity with browser testing and debugging.\n*   Capacity to manage priorities and deadlines.\n*   Capacity to work in a rapidly-evolving environment.\n*   Strong team player, analytical and dynamic\n*   Ability to handle multiple tasks and meet deadlines\n*   Initiative to actively seek opportunities to broaden knowledge and improve skills\n*   Strong interpersonal skills with the ability to collaborate and work effectively with individuals, strengthening relationships to achieve the best possible solutions\n*   Ability to understand the client needs and apply a creative and logical approach to identify solutions\n*   Ability to receive and understand direction, ask questions when appropriate, and manage time to work effectively and independently\n*   Strong communication skills\n*   Demonstrated track record of on-time task completion\n*   Service-oriented with quick response time to questions and emails.\n\nBENEFITS  \n\n*   **Health insurance:** We offer a healthcare plan where we cover 100% of employee premiums.\n*   **Vision:** An annual vision check-up is included in medical coverage.\n*   **Dental**: We cover 100% of the employee cost for dental.\n*   **Short-term Disability Insurance & Life Insurance**: We cover 100% of the premiums for Short Term Disability and Life Insurance for employees.\n*   **Paid Time Off**: 15 days of paid vacation. 5 days of paid sick time. 11 paid holidays.\n*   **401k**: full-time employees have access to a 401k plan.  \n      \n    \n\n**What We Stand For  \n  \n**We are a software as a service company working to empower local government through technology. Our vision, mission, and work are all defined by one goal – our commitment to providing municipalities with valuable solutions that meet their needs and the needs of the public while promoting exemplary governance. That means providing quality products, world-class customer service, and working in close collaboration with local leaders.  \n  \nAs employees, we feel fortunate to have the opportunity to create positive change through our daily work. We believe in the power of community and that the passion and success of our people is what makes PrimeGov, PrimeGov. If you're interested in helping us create change, click apply!",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Insurance"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "SMILE",
+    "descriptionMarkdown": "**Job Description  \n  \n****Smile CDR is hiring! \\*\\*\\*\\*\\*REMOTE POSITION\\*\\*\\*\\*\\*  \n  \n**We are a healthcare data platform that is used by developers and companies around the world to build cutting-edge medical applications. We work with app developers to build patient apps, with vendors to add modern interoperability to their platforms, and with governments and hospitals to help them to manage their data.  \n  \nWe also spend lots of time helping customers to build complete solutions using our platform. These solutions are used to manage health data and improve healthcare, and we are very passionate about that.  \n  \n**Who We Are Looking For  \n  \n**We are looking for ambitious **intermediate or senior front-end and/or full stack developers** to help us build customer solutions and drive our core platform forward. Our current stack is AngularJS on the front, using the HL7 FHIR standard for data storage and processing.  \n  \n**Ideal Candidates Would  \n  \n***   Keep up with the latest trends, stacks, and frameworks in the front-end/javascript ecosystem.\n*   Have experience building web applications using a variety of technologies and stacks\n*   Be comfortable working independently some times, and with big teams other times\n*   Enjoy working with designers to build the best possible user experience  \n      \n    \n**Key Responsibilities Include  \n**\n\n*   Designing and implementing applications using web technologies such as HTML, CSS, and JavaScript\n*   Working with JavaScript frameworks and web frameworks as necessary\n*   Advising and providing input into good technical design and industry trends\n*   Authoring relevant documentation\n*   Relevant Testing (including unit testing and functional testing)  \n      \n    \n\n**This Position Is Responsible For  \n**\n\n*   Analyzing and evaluating requirements and proposing high level design and technical solutions at all stages of development\n*   Analyzing solutions to ensure that they will be interoperable, performant and maintainable\n*   Ensuring that relevant documentation is kept up-to-date\n*   Ensuring that relevant frameworks are kept up-to-date\n*   Researching technologies that will be used in new and existing modules of the solution (e.g. Machine Learning frameworks, data storage and capture frameworks etc.)  \n    \n\nWe are based in downtown Toronto.. Our office is energetic and our team is a lot of fun. We'd love to have you join us. Visit our website to learn more about who we are: https://smilecdr.com  \n  \nRole: Intermediate or Senior Front End/Full Stack Developer  \n  \nJob Type: Full Time  \n  \nLocation: **REMOTE, or local if local to Toronto.  \n  \n**Travel Requirement: 0-10%  \n  \nHours (subject to change): 35 hours per week.  \n  \nDue to the nature of the position, additional hours may be required.  \n  \n**Company Description  \n  \n**Smile CDR Inc. is a Toronto-based company with a clear mission to make it easy for health organizations of all sizes to deliver interoperable applications quickly. We are transforming the next generation of shared health data by leveraging the standards-based FHIR data model and APIs.  \n  \nRecognized as a global expert in FHIR implementations, Smile CDR is the maintainer of HAPI FHIR, the prevailing open source reference implementation of FHIR; as well as the developers of Smile CDR, the leading enterprise-grade platform that regional health exchanges, health systems, hospitals, payers and application developers rely on.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Hospital & Health Care"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Designer/Developer",
+    "company": "Maricopa County",
+    "descriptionMarkdown": "Position Overview  \n  \n**About The Position  \n  \n**This is your opportunity to make a positive impact on the citizens of Maricopa County doing something you love!  \n  \nAs the Web Developer, you will assist in the creation and maintain the look, layout, and features of the Maricopa County Recorder's Website. The Web Developer produces the creative content for the Office's website, intranet site, and email/digital communications to accurately and effectively communicate with internal and external audiences. You will also assist in communication, which is essential to stakeholders, employees, and the public.  \n  \n**About Maricopa County Recorder's Office  \n  \n**The Maricopa County Recorder's Office is responsible for recording all documents required by law to be made public record. We are the leaders in using the latest technology to serve our community better. We continue to be at the forefront of e-government, with over 156,000,000 images available to be viewed by visiting our offices or on the Internet. Since 1999, we have accepted documents electronically, and currently, over 83% of all documents are submitted in this format.  \n  \nWe are looking forward to you joining what is considered by many to be the premier recording office in the country.  \n  \n**Position Qualifications  \n  \n**We recognize your time is valuable, so please apply if you meet the following required qualifications.  \n  \n**Education  \n**\n\n*   Bachelor’s degree in Computer Science or a related field.  \n      \n    \n\n**Experience  \n**\n\n*   One (1) year of progressively responsible enterprise-level experience in website design.  \n      \n    \n\n**OR  \n  \n****Combined Education And Experience Qualifications  \n**\n\n*   An equivalent combination of education and experience may be considered in substitution for the minimum qualifications.  \n      \n    \n\n**Other Requirements  \n**\n\n*   Experience with website design using Microsoft Visual Studio, C#.Net, VB.Net, ASPX, HTML, CSS, Adobe (Photoshop, Illustrator, Flash), JavaScript, jQuery, and Responsive Design.\n*   Must successfully complete a background screening.  \n      \n    \n\n**Our Preferred Candidate Has  \n**\n\n*   Three (3) years of progressively responsible enterprise-level experience in web design.  \n    \n\nEssential Job Tasks  \n\n*   Designs website layout.\n*   Creates and edits website content.\n*   Creates and develops visually aesthetic website graphics.\n*   Ensures website functions in popular browsers and on different devices.\n*   Follows departmental technical standards and procedures using established coding methodologies, tools, patterns, and platforms.\n*   Interacts in a team setting with co-workers, including project managers, web programmers, database administrators, and business analysts.\n*   Participates in user consulting, systems analysis, and systems design.\n*   Develops a new website design for future implementation.  \n    \n\n**Working Conditions  \n**Working at a desk in an environmentally controlled office.  \nSelection Procedure  \n  \nThe Maricopa County Human Resources Department reserves the right to admit to the selection process only those candidates considered to be the most highly qualified. Those selected will be assessed based on the evaluation of listed education and experience. The hiring authority will interview and select the successful candidate from a list provided by Human Resources.  \n  \nAll offers of employment made to new hires and rehires at Maricopa County are contingent upon successful completion of a post-offer, pre-employment thorough background investigation. A background investigation is conducted on a current employee who changes to a Safety Sensitive Position or one having the potential for serious adverse impact on the integrity or efficiency of the County. These requirements do not pertain to employees of elected officials who undergo background investigation processes administered through their respective offices.  \n  \nTypically, successful candidates are hired at a salary rate up to the midpoint of the range, based on relevant experience, internal equity, and budgetary allowances.  \n  \n**Maricopa County is an EEO/ADA Reasonable Accommodation Employer.**",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Nonprofit Organization Management",
+          "Government Administration",
+          "Hospital & Health Care"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "CYR3CON",
+    "descriptionMarkdown": "CYR3CON is changing the face of cybersecurity using artificial intelligence to allow companies to preempt cyberattacks. Based on solid science established from years of Rn D originally funded by the DoD and intelligence community, CYR3CON has prevented numerous attacks against its F500 clientele and has rapidly grown in 2018  \n  \nand continues to accelerate this year. CYR3CON is looking for innovative engineer to join its user interface (UI) team to ensure easy access to advanced predictive cybersecurity capabilities through our web-based interface. Must hold Master Degree in Computer Science or related field. Consider applying, if you are highly comfortable with: JavaScript, Angular 9 or similar Working experience with Web Development, Interface Design are required and knowledge of human-computer interaction (HCI) principles, JQuery, Java, Spring Boot, and REST are much appreciated. Project management skills, especially Agile Development, deductive reasoning and problem-solving skills are an absolute must. We are looking for a new team member, who displays a keen attentiveness to detail and is very solution-focused while never leaving the principle responsibility of ensuring optimal user experience out of sight. Our new team member is organized and goal-focused and creative and able to express that creativity and imagination on the screen. We are working in small teams and on fast turn-around projects, which means there will be high stakes on the quality and efficiency of your work. Your startup mindset is crucial: you must be highly flexible and the hardworking, DIY, problem-problem-solving type. Stay focused and driven towards our goals and do your part to make us all succeed. Forget the big-company hierarchy and bureaucracy this is an elite and exciting hi-tech startup that grows up fast, but relishes in the startup-qualities of flexibility and velocity.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "UpRecruit",
+    "descriptionMarkdown": "**About us:**\n\nOur B2B, AI data-driven document organization platform solves a ubiquitous pain point in the workplace that is even more relevant with the shift to working from home as employees struggle to find information across Google Suite, MSFT Office, Slack, Zoom and more. Join us to work on building a revolutionary light-weight Digital Asset Management (DAM) solution that personalizes the way teams work through a convenient Chrome extension.\n\n**Job Description:**\n\nWe are looking to hire an experienced frontend developer with extensive skills with React, JavaScript, HTML 5, and CSS. This person will be responsible for leading the implementation of new frontend code and working towards our current product roadmap. In this role, it will be critical to have a strong understanding of backend frameworks and REST APIs to translate into a responsive and user-friendly frontend experience. This is an incredibly exciting role to get in on the ground floor of a growing team with a bright vision.\n\n*   Build scalable, responsive applications and frontend frameworks across various browsers, devices, and platforms\n*   Translate designs and wireframes into high-quality code\n*   Develop user interfaces for new chrome extension and web applications \n*   Write, maintain, and test code\n*   Help maintain mission-critical services\n\n  \n\n**Must have:**\n\n*   ReactJS, JavaScript (ES6), JSON, CSS3, AJAX, RESTful APIs, HTML5/CSS3\n*   Deep familiarity with DevOps and ‘ownership’ mentality\n*   3+ years of overall application frontend development experience\n*   2+ years of experience with ReactJS\n*   Strong working knowledge working with Redux (or similar modern state management solution)\n*   Solid understanding of HTTP protocols\n\n  \n\n**Nice to have:**\n\n*   Experience developing Chrome extensions\n*   Experience with Node.js and/or React Native\n*   Knowledge of MongoDB or NoSQL DBs\n*   Experience with Python and/or shell scripting\n*   Experience working with Google Cloud Platform or similar cloud infrastructure\n\n  \n\n**Environment:**\n\n*   Comfortable with a fast-paced and agile development environment\n*   Easily adapts and learns new libraries, frameworks, processes, etc.\n*   Getting outside the comfort zone to get the job done\n*   Passion for releasing bug-free code for near-zero operation support\n*   Pride in beautiful & modern frontend UI design\n\n  \n\n**Benefits:**\n\n*   Competitive salary\n*   Early stage equity opportunity\n*   100% full medical, dental, vision\n*   Paid time off: 15 days vacation, 5 sick days, 7 holidays\n*   New computer & monitor\n*   Fun & transparent atmosphere",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Mid-Senior level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jr. UX Designer",
+    "company": "Amazon",
+    "descriptionMarkdown": "**Description  \n  \n**We're looking for talented, motivated Junior UX Designer that is comfortable with Front End Engineering who can join us to help build the next generation access control systems. If you are a recent graduate, graduating in 2020, or have 1-2 years experience and have an interest in building large-scale, high-performance, security-centric products and think end-to-end, this may be the job you've been looking for.  \n  \nOur work is characterized by high scale, complexity and the need for invention. This a great opportunity to work on web interfaces and mobile interfaces for access control, IoT and high-scale, low-latency distributed systems.  \n Development opportunities: As a recent/new graduate you will go through induction training. This is an hourly role where you will drive your own learning and development with guidance and coaching from your manager, buddy and colleagues around you - not to mention the excellent long-term development prospects you’d expect from one of the world’s leading online businesses.  \nThis is an hourly, Arizona based role at Amazon and relocation is not offered.  \n  \n  \n**Basic Qualifications  \n**\n\n*   Bachelor's degree in interaction design, human-computer (HCI), or related UX degree or degree in Computer Science, Engineering or related field.\n*   A portfolio or samples of work demonstrating mastery in creating a variety of visual human centered design solutions.\n*   Experience using modern front-end code to generate interactive prototypes; including HTML, JavaScript, & CSS.\n*   Solid written and verbal communication skills with the ability to present a strong rationale for design decisions.\n*   Strong knowledge of user experience principles, techniques, and patterns\n*   Proficiency in design tools such as Sketch, Photoshop, Illustrator, or similar.  \n    \n\n**Preferred Qualifications  \n**\n\n*   Experience with Front-end technologies such as HTML, CSS, JS, TypeScript, and Node and experience in one or more relevant front-end frameworks such as React, Angular, Thyme Leaf, JQuery, etc.\n*   Experience building reusable UX components or libraries\n*   Experience maintaining a uniform user experience across multiple devices and browser types\n*   Ability to rapidly prototype and adjust in response to customer feedback\n*   Understands how to optimize the delivery of code and assets (e.g., images, fonts) to a browser or device (e.g., lazy loading assets, using CDNs, caching, compression, etc.).\n*   Ability to effectively articulate technical challenges and solutions\n*   Adept at handling ambiguous or undefined challenges through strong problem solving abilities  \n    \nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.  \n  \n  \n**Company** - Amazon.com Services LLC  \nJob ID: A1215375",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Not Applicable"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Quality Assurance",
+          "Information Technology",
+          "Engineering"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Computer Software",
+          "Information Technology and Services",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Front-End Web Developer",
+    "company": "SpyFu",
+    "descriptionMarkdown": "Description: We are looking for a creative genius to join our team at SpyFu. You will be designing and building the user experience for SpyFu.com.  \nA passionate audience relies on us to help solve their Search Engine Marketing problems. Your job will be to design and build a user interface for them that makes petabyte-scale data as clear as possible. Often times, we have to think way outside the box and create new visualizations from scratch (see SpyFu Kombat or Ad History). But, ultimately, it's about taking lots of information and making it clean, snappy, and actionable for our customers.  \n  \n**Required  \n**\n\n*   2+ years experience.\n*   HTML5, CSS3, Javascript\n*   Really good problem-solving skills.\n*   Drive to \"get things done\". SpyFu is a small company, you'll be required to wear many hats. The management is also pretty loose, so you'll need to be able to keep yourself on task and make decisions that you wouldn't have to in a big company. This is the toughest thing for us to measure, so if you can think of a way to show us this side of your character, please go out of your way to do it.  \n    \n\n**Should Haves, But Not Absolutely Required  \n**\n\n*   Javascript: Vue.js, or other MVVM framework experience.\n*   An eye for design -- or better yet, design and UX experience.\n*   Git  \n    \n\nNice to have (so be sure to tell us about):  \n\n*   ASP.NET, .NET MVC, Babel, Webpack.\n*   Unit testing experience (jest, Nunit, xunit.\n*   Amazon AWS - Lambda, Glue, SQS, EC2, S3, Athena, etc.\n*   Design Skills -- If you got design experience, send a portfolio.\n*   Internet Marketing Knowledge (CRO, SEO, PPC, etc.)\n*   Communication passion (do you \\*like\\* writing/blogging, video skills, podcast, twitter.)  \n    \n\n**About SpyFu  \n  \n**You can go to SpyFu.com and type in any domain name and see every keyword they buy on Google Adwords, every keyword they rank on organically, and how their ad copy and search rankings have evolved over the last 11 years. On top of that, our goal is to tell people not just what is going on but how to act. So, we need to figure out which keywords, ads, and content are actually profitable -- and then show that information to our customers in a context that allows them to take action.  \nIt's a fun challenge, and we are the best in the world at what we do.  \nBased in the Scottsdale Airpark, SpyFu was launched in 2006 and is a bootstrapped, profitable and growing SaaS company.  \n  \n**Benefits  \n  \n**But, that doesn't mean we expect you to give up benefits  \n  \nIf you get the job, you'd be the 20th full-time employee (not including the founder).  \n\n*   We offer health benefits through your choice of providers.\n*   Retirement Plan (401k) with 4% matching.\n*   You get an office -- with a door.\n*   Food and beverages are provided. (pretty much name it and it will magically appear)\n*   We have a commercial-grade automatic espresso machine.\n*   We play ping pong and even have a ping pong robot. Oh, yeah, and there's a nationally ranked ping pong instructor that comes in to give lessons every Friday.\n*   Foosball and Xbox One (do you have Rocket League skills?) are also part of the entertainment options.\n*   There's a masseuse every other week. And a hair stylist once a month. Yep.\n*   Oh, and a boxing instructor 3 days a week.  \n    \n\n**Compensation  \n  \n**Learn more about our history and culture at spyfu.com/company  \n  \nWe pay market-competitive salaries.  \n  \n**Summary  \n  \n**At SpyFu, we understand that our people are what makes us awesome, and we invest in getting the right people on our team and keeping them around once they're on board.  \nYou might be waiting for the shoe to drop. We've had people tell us that the job sounds too good to be real, and they almost wrote it off as SPAM. The truth is, this IS in many ways the perfect job. It is real. We are real.  \nBut, to get the job you have to be really, really good. The interview process is the toughest in the valley. But, the cool thing is that once you make it, you realize that every \\*single\\* person you work with also had to pass that bar -- which is \\*awesome\\*.  \nGood Luck!",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Marketing and Advertising",
+          "Computer Software",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Front-end Web Developer",
+    "company": "Simpleview",
+    "descriptionMarkdown": "**Who We Are:  \n  \n**Since 2001, Simpleview has supported Destination Marketing Organizations (DMOs) with tools, knowledge and creativity to help them perform at the top of their game. We believe the world’s top cities and smallest towns each have a role to play in creating a better experience for the people who visit and a better life for the people who call it home.  \n  \n**Your Department:  \n  \n**The CMS department is responsible for the implementation, customization, and day to day support of our clients’ websites, powered by our own SaaS CMS platform. Our diverse group of individuals supports over 200+ clients both domestic and international by bringing their unique designs and initiatives to the web and helping our clients focus on what they do best, marketing their destination.  \n  \n**Your Role:  \n  \n**As a Front-end Developer, you will be part of a team and be responsible for turning a design or technical specification into a functional and reusable component that is integrated into the Simpleview CMS. Together with your team lead and teammates, you will build components that comprise a full suite of tools for clients to manage and market their destinations online.  \n  \n**Your Responsibilities:  \n  \n**\n\n*   Build performant components that adhere to the provided technical specifications and approved design or prototypes.\n*   Deliver quality, standards-compliant code that adheres to Simpleview best practices.\n*   Peer review your team’s work and deliver proper and timely feedback to ensure code completeness and cleanliness.\n*   Collaborate with team members and team lead to prioritize project tickets and meet deadlines for review and deployment.  \n      \n    \n\n**Requirements:  \n  \n**\n\n*   You have a deep understanding of HTML, CSS, and JS.\n*   You keep up with the latest technologies (CSS Grid, Flexbox, Web Animations API, Observers, etc.) and understand how and when to use feature detection, polyfills, @supports, and vendor-prefixes to provide cross-browser support.\n*   You are comfortable with templating engines like Mustache or Handlebars.\n*   You have experience using RESTful APIs in your applications.  \n      \n    \n\n**Preferred Requirements:  \n  \n**\n\n*   Familiarity with Vue.js or similar frameworks is a plus.\n*   Familiarity with progressive enhancement is a plus.\n*   Familiarity with MongoDB or other NoSQL databases is a plus.  \n      \n    \n\n**Who We’re Looking For:  \n  \n**\n\n*   Professionals with solid skills and solid principles\n*   People who know the web like an old friend\n*   Employees who thrive on problem solving and figuring things out\n*   Someone other people want to work with (organized, easy-going, non-toxic)  \n    \n\n**What's In It For You:  \n  \n**\n\n*   Competitive pay & lots of ways to move up or around\n*   Endless coffee & relaxed dress code (but clothes required while in the office)\n*   A friendly, diverse, casual environment Great co-workers, including geeks, moms, artists & average Joes\n*   100% paid medical benefits for employees and short term disability paid by the company + options for vision, dental, long term disability & life\n*   401(k)  \n      \n    \n\nPowered by JazzHR  \n  \nEUv6FFj7uN",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Marketing and Advertising",
+          "Computer Software",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UI/UX Developer/Designer / FrontEnd Developer/Designer / Web Developer",
+    "company": "Organize Chaos",
+    "descriptionMarkdown": "Job DescriptionJob Title : UI/UX Developer/DesignerJob order C2CJob Description :VERY VERY URGENT BACK FILL ROLEUI/UX Developer/Designer / FrontEnd Developer/Designer / Web Developer/DesignerPrinceton, NJ 08540 - LOCALS ONLYDuration : 12 + MonthsPortfolio a MUSTRequired:Bachelor's degree or higher in Web Design/Development, User Experience, Digital Arts, Interaction Design, Animation, Visual Media, Graphic Arts or similar field of studyPortfolio:Online presentation of design work is required, please submit with resumeProficiency:HTML5, HTML, CSS, Javascript Angular expertise React Material Kendo Bootstrap Storybook.JS Sass LESS Visual Studio Adobe CC Suite Axure RP GitLab/Confluence Data Visualization SharePoint Microsoft 365 Mac or PCDescription:Understand, prioritize, and translate the client situation and goals into effectively designed products and rationales.Imagine, establish, and implement the conceptual and stylistic direction for products using interactive graphic solutions.As a front-end developer, your primary focus will be on developing user interface components and implementation workflows for a leading national assessment platform.You will work closely with an established UI Lead and equally-experienced UX Lead (yes, there's a difference between UI & UX!) to translate designs, wireframes, and prototypes into reusable components and libraries for future use.You will ensure that your components and the overall front-end are robust and easy to maintain.The goal is to develop a component library that serves as the gold-star exemplar in the education and learning space.You should understand that there's a time and place for QTI standards and be familiar with WCAG/ARIA guidelines, but you also know that sometimes those standards don't account for all scenarios and requirements.Working at you have the opportunity to redefine those standards as we serve on the working groups for these leading consortia.Responsibilities:Build rapid prototypes and iterate as per user and client feedbackProvide UI design with effective UX that fully illustrates interface layout, behaviors, hierarchy of content, and site flow navigationImplement responsive web and mobile design principles and experience in cross browser development.Demonstrate a high level of understanding for accessibility implementation and problem solvingImplement Accessibility for WCAG 2.1 guidelinesImplement user interface based on standards that support the existing development frameworkCollaborate with client and development teams to interpret user stories, scenarios, and specifications based on client feedback and design guidelinesValidate design assumptions with usersAbility to negotiate, give feedback and provide solutions for design, usability, and accessibility challengesFollow design guidelines: visual language, color story, themes, CSS styles, etc. based on client standardsAdhere to, develop, and maintain visual Style GuidesCollaborate with design team to maintain a core aesthetic based on fresh design principles and best practices with expressed design justificationPossess excellent organizational skills to prioritize workload across several projects, whilst maintaining strong attention to detailManage project scheduling and conduct project meetingsNote:This is a front end developer role, need someone with a design background and ideally a design degree.candidate must have a portfolio otherwise they aren't the right person.Not looking for a developer that has developed web sites instead they are looking for a designer that develops web sites.candidate should have a pixel perfect implementation of design intent.must have adobe suite, angular, and react.candidates should know style guidde implementation.Additional Notes to Vendor : LOCALS ONLY Portfolio a MUST VERY VERY URGENT BACK FILL ROLE.Share the profile on mail id ...@amindsinc.comAssociated topics: ajax, css, css2, css3, emberjs, html5, js, web design, web developer, website",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Design",
+          "Graphic Design"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Dual Path WiFi and Internet",
+    "descriptionMarkdown": "Dual Path is a managed services provider based in North Phoenix, Arizona. We are currently seeking a contract HTML front end designer and developer.\n\nDual Path delivers high-quality large scale distribution networks and highly reliable mission-critical systems. We provide reliable easy to use wifi networks and applications for senior living communities. We are committed to enhancing the quality of life for all of our customers through technology and communication. Our products provide a robust network platform - the foundation for ultra-high-speed Internet access, smart systems, and the connected life.\n\nBelow please find a brief description of the position along with the duties and qualifications required to succeed in this position. We are looking for candidates who have a great eye and the skillset to bring it to life.\n\n**Position Description:**\n\nThe candidate that fills this position will be a part of our development team and will work in conjunction with our backend developer on various projects for our clients. The ideal candidate will understand the fundamentals of network engineering in addition to creating user interfaces and user experiences.\n\nCandidates who already live in Arizona will be given priority.\n\n**Desired Skills/Experience**\n\n*   Working knowledge of HTML5, CSS, Javascript\n*   UI/UX design experience \n*   Experienced with Adobe Creative Suite (Photoshop, InDesign, XD)\n*   Ruby on Rails experience\n*   Knowledge of a front end framework or library, ie React or Angular\n*   React - managing “state” and API consumption \n*   Basic understanding of Bootstrap framework and development\n*   At least 2 years experience in a similar role\n*   Understanding and experience with Agile methodology or similar project management experience\n\n  \n\n**Responsibilities**\n\n*   Create user stories and customer wireframes\n*   Customer-facing website development\n*   Design and code user portals for both internal and external customers\n*   Research and implement ADA requirements on websites and user portals\n\n  \n\nPlease, no calls about this posting.\n\nThe position will be 1099; however, Dual Path does offer part-time and full-time positions with benefits for which Independent Contractors are eligible to apply. Rate - $25-32 per hour.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Associate"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Developer I",
+    "company": "University of Arizona",
+    "descriptionMarkdown": "**Position Highlights  \n  \n**The Arizona Student Unions Information Systems Department is looking for a creative, enthusiastic, and self-motivated individual who is passionate about user-centered design and interested in being a part of a dynamic, collaborative environment dedicated to producing beautiful, functional web applications to clients on and off campus. The Student Unions Information Systems department is dedicated to providing support to Unions staff and customers with respect to hardware (HW) systems and software (SW) applications, troubleshooting issues, and designing new solutions for evolving business needs. We also provide support in terms of new application or website testing and training, documentation, and deployment. As a member of our department’s new Web Dev. team, you’ll have opportunities to use the latest technologies on a range of projects, while engaging with the various staff members, on- and off-campus partners, and members of our campus community. Working closely with other designers, developers, and marketing and communications professionals, you’ll create useful, intuitive, and accessible websites and applications that help our users achieve their academic and personal goals. Our mission is to excel in our commitment to enhance the campus community by providing inclusive environments where people are valued for their individual differences through quality programs, dining, retail and support services, and you’ll help us fulfill that mission via our web and mobile applications. You’ll have support for your work and operate in a respectful environment where we value risk-taking, learning, and open communication. We share responsibility for our successes and failures, we see opportunities in challenges, and we value diverse viewpoints and the learning that comes from challenging our assumptions.  \n  \nOutstanding UA benefits include health, dental, and vision insurance plans; life insurance and disability programs; paid vacation, sick leave, and holidays; UA/ASU/NAU tuition reduction for the employee and qualified family members; state and optional retirement plans; access to UA recreation and cultural activities; and more!  \n  \nThe University of Arizona has been recognized for our innovative work-life programs. For more information about working at the University of Arizona and relocations services visit http://talent.arizona.edu/  \n  \nAs a cost-saving measure related to the impact of COVID-19, Furlough and Furlough-Based Salary Programs have been approved by the Arizona Board of Regents. All new hires subject to the programs will be notified in accordance with adopted Furlough and Furlough-Based Salary Programs guidelines and will be required to comply with all measures. To learn more about the programs and whether this position is affected, please visit hr.arizona.edu/FY-2020-2021-Furlough-Program.  \n  \n**Duties & Responsibilities  \n**\n\n*   Designs, develops, implements and maintains department, college or institutional web sites. Consults with users regarding web content and development requirements. Assignments include web site design and/or web site development.\n*   Creates and maintains web site layout and design using HTML, CSS, JavaScript, PHP and MySQL. Assesses usability and accessibility of web site designs. Designs web sites for use by individuals with a range of visual, auditory, motor/mobility and cognitive abilities.\n*   Assesses usability and accessibility of web sites and updates as required. Implements and maintains web site architecture and enters data into online databases. Maintains and edits web site content.\n*   Participates as a team member in web site design and development projects. Consults with content providers regarding web site development assignments and graphics requirements.\n*   Available to work Monday through Friday from 8:00am -5:00pm with some evenings and weekend work necessary.\n*   Must be able to effectively communicate.\n*   Additional duties as assigned by supervisor or Associate Director  \n    \n\n**Knowledge, Skills And Ability  \n**\n\n*   Skill in designing or developing usable and accessible websites through progressive enhancement using semantic HTML, CSS, and JavaScript.\n*   Skill in providing consultation regarding web design/development projects.\n*   Skill in developing and implementing test plans for websites and applications.\n*   Demonstrated skills in website design and/or development including database development, and interface and navigation tool design.\n*   Demonstrated skills in researching and using new web design/development software.\n*   Ability to effectively communicate.  \n    \n\n**Minimum Qualifications** \\* Bachelor's degree or equivalentadvanced learning attained through experience required.  \n\n*   One year of relevant work experience in the field of Web Development.  \n    \n\n**Preferred Qualifications** Have a minimum of 3 years of prior web design and/or development experience for the following systems: \\* E-commerce websites that utilize database interfaces to provide account management capabilities (e.g. view account balance, transaction/order history). \\*Automation to test and deploy code often and iteratively. \\* Applications within server-side frameworks such as PHP, ASP.Net Prior user/administration experience with the following systems: \\* Servers running on Windows and Linux operating systems \\*Database management systems \\* Virtualization and cloud computing services \\* Working experience with current and emerging multi-media and website development software. \\* Working experience with website architecture. \\* Working experience with web standards and protocols including usability and accessibility. **FLSA** Non-Exempt **Number of Hours Worked per Week** 40 **Job FTE** 1.0 **Work Calendar** Fiscal **Job Category** Information Technology **Benefits Eligible** Yes - Full Benefits **Compensation Type** hourly rate **Grade** 8 **Career Stream and Level** PC1 **Job Family** Web Sites & Applications **Job Function** Information Technology **Type of criminal background check required:** Name-based criminal background check (non-security sensitive) **Number of Vacancies** 1 **Target Hire Date**",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Nonprofit Organization Management",
+          "Higher Education",
+          "Hospital & Health Care"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Spyglass Partners, LLC",
+    "descriptionMarkdown": "The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company. Using JavaScript, HTML, and CSS, this candidate will be able to translate user and business needs into functional frontend design. \n\n**Responsibilities**\n\n*   Designing, developing, and testing UI for mobile and web applications\n*   Build reusable code and libraries for future use\n*   Accurately translate user and business needs into functional frontend code\n*   NGRX or RXJS\n\n  \n\n**Qualifications**\n\n*   Bachelor's degree or equivalent in Computer Science\n*   2+ years' experience in frontend development\n*   Familiarity using Scrum/Agile development methodologies\n*   Experience building object oriented web applications in JavaScript, HTML5, and CSS3",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Mid-Senior level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Staffing and Recruiting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Software Engineer, Frontend (Remote)",
+    "company": "Hotjar",
+    "descriptionMarkdown": "**Please do not apply for this role if you are not physically located in Europe, Africa or the Middle East.** While this is a remote position, we can not consider candidates that are not based in these regions. You can find a detailed explanation in our Recruitment FAQs.  \n  \nAt Hotjar we’re on a mission to build the leading user feedback and analytics platform, with our product being used by over **915,000** users in **190** countries. As part of our Engineering team, you'll work on the exciting challenges that come with **large-scale** web traffic and analytics.  \n  \nWe work in an agile and highly collaborative environment, 100% remotely, and challenge the norms of traditional business leadership. Our focus is on true transparency and respect.  \n  \nWe're looking for enthusiastic and resourceful software engineers who are passionate about building great products, someone who loves being part of a team, whilst enjoying the autonomous nature of working remotely.  \n  \n**About The Job  \n**\n\n*   Work in an agile cross-functional team with other frontend engineers, backend engineers, and product designers.\n*   Plan, build, test, and release new features and experiments in Javascript, AngularJS, and React.\n*   Develop and improve our tracking script according to the best practices.\n*   Mentor other team members through pair programming, code reviews, and ad-hoc assistance.\n*   Collaborate with engineers across the department to identify and build on improvements to our processes and systems.  \n      \n    \n\n**Requirements  \n**\n\n*   Excellent command of HTML, CSS, and vanilla Javascript.\n*   Strong experience with component based architecture using libraries such as Angular or React.\n*   Strong Experience with Browsers API.\n*   Strong experience with automated testing frameworks such as Jest, Karma, Cypress, or Protractor.\n*   Value collaboration with Product Designers to deliver pixel perfect experiences.\n*   Pragmatic engineer who actively avoids over-engineering of solutions and understands how to maintain a high-quality of code in a delivery-focused environment.\n*   You stay on top of the latest developments in web technologies.\n*   Desire to work in a respectful, transparent, and collaborative work environment, following Hotjar’s company values, culture and ways of working.\n*   Will submit to a background check, confidentially processed by our third-party partner.  \n      \n    \n\n**What We Offer  \n**\n\n*   A remote and accomplished diverse and international team.\n*   An opportunity to positively impact people’s experience online and make the web a better place.\n*   Annual learning and development budget.\n*   Several perks designed for your well-being and a healthy work-life balance. (Holiday Budget, Wellbeing Allowance, Working Together Budget, 16 weeks paid parental leave, and much more).  \n      \n    \n\n**Compensation Range  \n  \n**The compensation range for this role is €60,000 to €80,000 annually. This was established after performing market research and is aligned with our approach to compensation. We encourage all candidates to read our Recruitment FAQs to further understand our approach to compensation and how we structure our contracts.  \n  \nIn addition to the monetary compensation, we also provide all team members with an assortment of unique and popular perks.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Contract"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "WEB DEVELOPER",
+    "company": "Metasys Technologies, Inc.",
+    "descriptionMarkdown": "**Job Description  \n**\n\n*   6 years of experience in writing code in JQuery, HTML5, CSS3, JavaScript and JSON for Responsive Web Design for Cross Browsers.\n*   Highly proficient in writing CSS3 and consuming stylesheets, and style design to the accuracy of UX requirements.\n*   2 years of experience and highly proficient in consuming REST API and OAuth2.0.\n*   Knowledge on Internationalization techniques.\n*   Knowledge on How HTML pages work end to end and ability to troubleshoot problems on webpages.\n*   Knowledge of Flexbox and modern CSS Layout techniques for Responsive and Cross Browser Web Development.\n*   Knowledge on OKTA Sign In widget is recommended.\n*   6 months of Experience on ReactJS is a plus.\n\n**Location:  \n****Skills Required: RESPONSIVE WEB DESIGN  \n  \n****Roles  \n**\n\n*   6 years of experience in writing code in JQuery, HTML5, CSS3, JavaScript and JSON for Responsive Web Design for Cross Browsers.\n*   Highly proficient in writing CSS3 and consuming stylesheets, and style design to the accuracy of UX requirements.\n*   2 years of experience and highly proficient in consuming REST API and OAuth2.0.\n*   Knowledge on Internationalization techniques.\n*   Knowledge on How HTML pages work end to end and ability to troubleshoot problems on webpages.\n*   Knowledge of Flexbox and modern CSS Layout techniques for Responsive and Cross Browser Web Development.\n*   Knowledge on OKTA Sign In widget is recommended.\n*   6 months of Experience on ReactJS is a plus.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Financial Services"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Designer/ Developer",
+    "company": "Phoenix Staff, Inc.",
+    "descriptionMarkdown": "**Title:** Web Designer/Developer  \n  \n**Location:** Phoenix, AZ  \n  \nRemote w/ occasional requirement to collaborate in-person (Phoenix) 90-day assignment with possible extension if needed  \n  \nWe’re currently looking for a Web Designer / Developer with the highest level of technical web developer (front and back end) expertise. You’ll work under limited supervision on the most complex assignments that require considerable independent discretion and judgment. We’ll be converting ASP .NET to .NET Core.  \n  \n**Skills Required:** ASP .NET, Visual Studio, SQL, (C#), JavaScript (Angular, React, or Vue), Agile/Scrum, Git source control and Azure DevOps/TFS/MS Teams  \n  \n**What You’ve Got  \n**\n\n*   10 years’ experience.\n*   Experience in ASP .NET.\n*   Experience in .NET Core a plus.\n*   ASP .NET MVC a plus.\n*   JavaScript (Angular, React, or Vue) a plus.\n*   Agile/Scrum experience.\n*   Git source control.\n*   Azure DevOps/TFS/MS Teams.\n*   Experience converting ASP .NET to .NET Core a plus.\n*   Bachelor’s Degree Computer Science or Related Field.\n  \n  \n\nTo find more great tech-centric jobs, please visit www.phoenixstaff.com.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Not Applicable"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Contract"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Computer Networking",
+          "Computer Software",
+          "Information Technology and Services"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Designer",
+    "company": "Nextiva",
+    "descriptionMarkdown": "At Nextiva, we don't study industry trends and build our products and services reactively; instead, we look to be the leader in defining the trends, during these unprecedented times.  \n  \nWe strive to be the best of the best across multiple technology channels – UCaaS and SaaS to name a few. We are determined to help write the future for businesses around the globe by creating innovative products and an agnostic platform that delivers first-class communications tools in the hands of every business. We are a global team of the fastest-growing, privately held provider of cloud communications.  \n  \nWe are actively looking for amazing people, like you, to join our team!  \n  \nThe Web Designer is responsible for designing webpages from wireframe through pixel-perfect design. As a member of the marketing team, the Web Designer collaborates with graphic designers, the demand gen team, video producers, front-end developers and creative directors to design websites/landing pages that increase conversion rate. S/he uses a variety of interaction and digital design skills to wireframe, mockup, and provide completed designs to our developers for Nextiva’s website.  \n  \nThe ideal candidate is a creative and versatile individual with multiple years of experience designing for web. S/he is an expert in usability, is fluent in omni-channel interaction design approaches (desktop and mobile) and can translate functional objectives into interaction design prototypes and prepare detailed design specifications. Our ideal Web Designer lives and breathes the “science of usability” (the “left brain” of experience design), but has the “right-brain” imagination, curiosity and artistry to bring to life truly innovative web designs.  \n  \n**Principal Duties and Responsibilities include but are not limited to:  \n**\n\n*   Understand modern web design requirements and provide interactive wireframe concepts\n*   Collaborate with graphic designers, the demand gen team, video producers, front-end developers and creative directors to create innovative and usable interaction designs for pages on Nextiva’s website\n*   Design for multiple variations of a single page for testing\n*   Create detailed design specifications for interactions and animations\n*   Consistently demonstrate innovative thinking and stay abreast of the latest thought leadership, tools and techniques\n*   Be able to fully explain the usability and accessibility of your design and the choices made to arrive at submitted work, both verbally and in written form\n*   Contribute towards improving existing design and operational systems\n  \n  \n\n**Qualifications  \n**\n\n*   Bachelor's degree in web design, digital design or related field\n*   5+ years of experience designing for web, ideally a combination of desktop and mobile\n*   A robust design portfolio showcasing your work\n*   Meticulous/attention to detail in the design and execution of consistent, compelling and usable interfaces across all browser platforms\n*   Strong understanding of the implications of design choices on usability and accessibility, development effort, and SEO\n*   Understanding of the various web browsers and their impacts on webpage display\n*   Strong organizational skills within project files and general file management\n*   Open-minded approach to fielding feedback and critique - with the ability to reinforce and advocate for the best ideas\n*   Intermediate understanding of underlying technology (HTML5, CSS, JavaScript, responsive design, mobile platforms, and relevant products in their assigned area)\n*   High capacity to deliver designs quickly\n  \n  \n\n**Software Proficiency  \n**\n\n*   Adobe XD (required)\n*   Adobe Illustrator (required)\n*   Adobe Photoshop (required)\n*   Microsoft Office or Google Business Apps (required)\n*   MacOS (required)\n  \n  \n\n**Bonus Points For  \n**\n\n*   UX experience, certifications, or advanced degree\n*   Understanding of the psychology behind design visuals\n*   Understanding of an A/B testing process and adjusting design based on results\n*   Interest in emerging technologies in web, mobile, and other devices\n*   Experience designing for B2B and/or software companies\n*   You enjoy contributing to content and copywriting ideas and that fit within a brand vision\n*   You have a diverse interest in all things related to art and design - including typography, color theory, layout, photography, video production, and fine art\n  \n\n**So, why Nextiva?  \n  \n**Our people do amazing things to help businesses solve their toughest challenges. Really, they do. We simplify the way businesses communicate, creating innovative and affordable solutions for businesses of all sizes. We acquired our first customer in 2008 and today thousands use our tools and platform. Talented team members around the globe embrace Amazing Service – this culture of Amazing Service extends to how we treat both our customers and one another. We are passionate about Nextiva’s unique culture and are looking for like-minded individuals that share our values and vision.  \n  \n_Nextiva is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws._",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Telecommunications"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "MedTech Ventures",
+    "descriptionMarkdown": "**Senior Angular / Javascript Programmer**\n\n  \n\n  \n\n**To apply please send your resume to careers@cxoam.com**\n\n**About MedTech Ventures -** MedTech Ventures (MTV) is a venture capital partnered incubator and accelerator supporting innovative companies commercializing devices, software, and IT/IoT for health, wellness, and wellbeing. \n\n  \n\n**About the Portfolio Company** - The company is at the forefront of revolutionary new technology that will change the dynamics in patient-physician interactions. They are looking for a strong Angular developer who can lead a team of remote and local developers to refine the customer experience as they accelerate sales within the target market.\n\n  \n\n**About the Position -** The team lead will head the construction of core user experiences that support patients, doctors and internal staff members who work together to change the way patients are evaluated and managed in various healthcare settings. The lead must have extensive knowledge of Angular, Javascript, and related applications, and be willing to coach and mentor a team to build out an intuitive self-directed medical exam that will interact with a set of medical devices to capture key data and information about a patient's visit.\n\n  \n\nResponsibilities may include the following and other duties may be assigned\n\n*   A strong, seasoned, Angular developer with demonstrated team leadership experience to oversee local and remote efforts in product development\n*   Will personally head the construction of core user experiences that support patients, doctors, and internal staff members who work together to change the way patients are seen and managed in various healthcare settings.\n*   The individual must be able to work locally with senior leaders to identify the strategic needs, manage JIRA, and then contribute and oversee the delivery to meet our customer’s aggressive and exciting experiences.\n*   The ideal leader will be contributing code at least 50-75% of the time\n\n  \n\n**Desired Skills and Experience**\n\n*   Bachelor’s degree or other relevant education and experience.\n*   6+ years JavaScript, ES6 is a must.\n*   4+ years Angular, with current knowledge of versions 4-7\n*   3+ years Nodejs\n*   3+ years Redux is highly desired\n*   Strong knowledge and hands-on experience with Postgres or MySQL\n*   Demonstrated leadership skills driving results of teams of 4-10 staff members\n*   Strong knowledge of Agile and related tools (JIRA, etc)\n*   Experience and knowledge of working with CICD including Docker, Jenkins, or related products.\n*   Strong knowledge of HTML, SASS, and CSS",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Medical Devices",
+          "Hospital & Health Care",
+          "Health, Wellness and Fitness"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "nFocus Solutions™ ",
+    "descriptionMarkdown": "**Company Overview  \n  \n**nFocus Solutions is dedicated to the development of innovative technologies and intelligent business solutions for the public sector. We are a leading provider of applications, services and technologies that nonprofit organizations, communities, first responders and government agencies rely on to deliver services to the public at large. Our high-quality data management and analysis software enable our clients to achieve clear, well-defined results that change the world. Here at nFocus Solutions, we want to build a team whose values reflect our own: operating with integrity, putting the customer first, and making nFocus a great place to work. Come build something great with us.  \n  \n**Our Mission Statement —** We build technology that gives our clients the power to solve big problems and make a positive difference in the world.  \n  \n**Job Summary  \n  \n**We are seeking a highly creative and passionate UI/UX Designer to design and shape nFocus Solutions’ products and experiences. The ideal candidate can translate high-level requirements and transform them into intuitive, functional user interfaces. They should have an eye for clean and artful design and have a creative yet organized approach to tackling problems and creating solutions.  \n  \n**Job Location:** 2355 E Camelback Road, Ste 250, Phoenix, AZ 85016  \n  \n**Essential Duties And Responsibilities  \n**\n\n*   Build responsive web designs for mobile, tablet, and desktop browsers.\n*   Implement color schemes, fonts, layouts and images.\n*   Identify usability improvements and enhancements opportunities.\n*   Ensure coherent application and site navigation.\n*   Work closely with a cross-functional team that includes developers, leadership, product managers, and subject matter experts.\n*   Transform ideas and concepts into high fidelity designs.\n*   Design mock-ups and work with developers to implement using available development toolsets.  \n    \n\n**Education and/or Experience:  \n  \n**_Technologies:  \n_\n\n*   5+ years’ experience of front-end user interface design and user experience\n*   Very Strong HTML CSS design skills\n*   Very strong experience creating responsive designs for mobile, tablet, and desktop browser support\n*   Strong experience with CSS frameworks, such as Bootstrap, Material Design, etc.\n*   Strong experience implementing colors, font, layout and images to design Web sites.\n*   Experience with Sketch, InVision, or similar design tools.\n*   Experience with Adobe Illustrator and Photoshop\n*   Experience with JavaScript\n*   Experience with Angular, React, or other front-end development tools is a plus, but not required.  \n    \n\n_Education:  \n_\n\n*   Bachelor’s in Human-Computer Interaction, Interaction Design, Computer Science, or related field  \n    \n\n**Other qualifications:  \n**\n\n*   Submit to required background check\n*   Exceptional analytical, problem solving, presentation, and communication skills\n*   Excellent visual design skills with sensitivity to usability\n*   Strong attention to detail (pixel perfect)\n*   Enthusiasm for an iterative design process, inspired by group critique\n*   Demonstrate high standards of quality and accuracy\n*   A team player that can work independently too\n*   Ability to quickly learn new concepts\n*   Must be a U.S. Citizen  \n      \n    \n\n**Benefits And Perks  \n  \n****What We Offer:** nFocus Solutions offers a comprehensive benefits package including paid time off, paid holidays, medical, dental, vision, flexible spending account and life insurance, along with a 401k plan with company match, short-term and long-term disability coverage. Relocation expenses are not an offered benefit.  \n  \n**Diversity Statement -** At nFocus Solutions, we recognize and appreciate the value that comes from having employees with diverse backgrounds, points of view and life experiences. Respect for diversity is an integral part of our culture and a critical component in our strategy to deliver the best customer experiences.  \n  \n_EOE Minorities/Females/ProtectedVeterans/Disabled  \n  \n_Powered by JazzHR  \n  \n3z5Q5SpS8P",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Defense & Space",
+          "Computer Software"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "React JS Developer",
+    "company": "Barrett-Jackson Auction Company",
+    "descriptionMarkdown": "**Job Description  \n  \n**The purpose of the Reactjs Application Developer role is to improve/support the software functions of our web/mobile technology stack. This includes: the support and continuous development of a new React web application, learning and improving our existing React Native mobile application, and working with our staff to identify additional web/mobile application opportunities for future growth and efficiencies.  \n  \n**Reactjs Application Developer Job Duties & Key Responsibilities  \n**\n\n*   Develops & maintains software solutions by understanding information needs provided by the PMO, as well as meeting with end users and taking direction from IT leadership and other senior development staff.\n*   Utilizes business requirements and documentation to build accurate systems that function as expected.\n*   Stays current with the latest trends in web/mobile application software best practices, as well as cloud technologies that can provide further efficiencies and scale (AWS, Docker, etc.).\n*   Works with the software team to contribute to the development of software specifications/visualizations (wire frames, demo apps, etc.) to show how developed software works with other frameworks/products.\n*   Willing to work with 3rd party content provider tools/api’s and have experience implementing/managing CMS driven content (Contentful, WordPress).\n*   Contribute to the application architecture, with a focus on scalability, maintainability, security, and performance (with both on premise AND cloud technologies in mind).\n*   Documents code to ensure readability and understanding with other developers.\n*   Must be self-motivated and communicate well in a fast-paced environment.  \n    \n\nThis job description in no way states or implies that these are the only duties to be performed by this employee. He or she will be required to follow any other instructions and to perform any other duties requested by his or her supervisor.  \n  \n**Reactjs Application Developer Skills And Qualifications  \n  \n**To perform this job successfully, the individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skills and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.  \n  \n**Education And/or Experience  \n**\n\n*   Degree in CIS, Software Engineering, or other applicable technology degree is desired (1 - 2 years ADDITIONAL experience without a degree will be considered).\n*   2+ years of development experience using React in a business environment (3+ years preferred)\n*   4 - 6 years experience as a full stack developer\n*   Mobile architecture/application development experience with React Native desired (must be experience in a small to large business environment).\n*   Experience with TypeScript is a plus.\n*   Experience with Docker is a plus.\n*   Strong understanding of JSON and the mechanisms by which API technologies are leveraged in the web/mobile application world.\n*   Experience in a full CI/CD pipeline and the tools is desired.  \n      \n    \n\n**Company Description  \n  \n**Specializing in providing products and services to collector car owners, astute collectors and automotive enthusiasts worldwide. Barrett-Jackson produces “The World’s Greatest Collector Car AuctionsTM” across the United States, and offers a new year-round option: the \"Barrett-Jackson Collection Showroom,\" located in the heart of Scottsdale, Arizona.  \n  \nBarrett-Jackson has been making headlines, breaking records and hosting The World’s Greatest Collector Car AuctionsTM for 45 years. Founded and managed by collector car enthusiasts with a true passion for everything automotive, we are looking for like-minded professionals to join our growing team.  \n  \nWe have a fast-paced environment where enthusiasm and creativity are celebrated and rewarded. If you are a skilled professional who thrives on new challenges and constant innovation, let’s go for a spin.  \n  \nView current openings and apply online at: jobs.barrett-jackson.com/  \n  \nIn 2010, named the Most Ethical Auction Company in the world. Read the details here... http://ethisphere.com/wme2010/",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Junior Software Developer",
+    "company": "RadialSpark",
+    "descriptionMarkdown": "**Company Description  \n  \n****READY TO ACCELERATE YOUR CAREER?  \n  \n**Whatever your current station — looking for a change, or seeking accelerated professional growth — you've come to the right place to advance your career. At RadialSpark, we pride ourselves on hiring, developing, and enabling people of all backgrounds and experience levels to learn, thrive, and become among the best in their field. If you're passionate about your work and driven to succeed (while being great to work with, no brilliant jerks allowed), you will do more and advance farther here than anywhere else.  \n  \nRadialSpark is a fast-growing consulting and custom software development company that specializes in designing and building business apps and solutions that give our clients a competitive advantage, allowing them to outpace or disrupt the marketplace. Due to our close partnerships and strategic focus, we work on market-changing projects with some of the most innovative companies in the world and work with market-leading platforms and technologies such as Salesforce, Heroku, Node.js, AI, and IoT.  \n  \nIf you're looking to get to the next level in your career — doing trailblazing work alongside talented colleagues in a fun exciting environment — apply today to join our growing team.  \n  \n**Job Description  \n  \n****JOB DESCRIPTION  \n  \n**We are looking for a motivated and inspired individual who is looking to jump-start their career in software development. As a Junior Software Developer, you will participate in a six-week training program, which will provide you with all of the fundamentals and best practices necessary to dive right in and get started with development on the Salesforce platform. Upon finishing training, you will work alongside other talented developers to build a wide variety of applications involving cutting-edge technology emerging in the Salesforce ecosystem, providing game-changing ROI and innovation to our clients.  \n  \n**HATS YOU'RE EXPECTED TO WEAR:  \n**\n\n*   **Participate in the full-stack development of applications** \\- Leverage best practices to produce high-quality software utilizing cutting-edge technology\n*   **Assist in debugging** \\- Utilize appropriate tools and methodologies for identifying and solving issues within applications\n*   **Engage in QA processes** - Write unit tests to hit 90% code coverage, while ensuring that all positive and negative cases are addressed\n\nQualifications  \n  \n**Core Qualifications You Must Have  \n**\n\n*   Experience with at least one of the following programming languages: JavaScript, Java, Python, PHP, or C#\n*   Bootcamp graduate, or self-taught with regular participation in meetups and groups such as Girl Develop It\n*   Ability to think creatively to solve problems\n*   Ability to take direction from tasks and work with minimal oversight\n*   Eagerness to learn new skills and technologies\n*   Strong written and verbal communication skills\n*   Must be a US citizen or have valid Employment Visa, no sponsorship provided  \n      \n    \n\n**Awesome If You Also Have The Following  \n**\n\n*   Node.Js Expertise\n*   College degree\n*   Experience with database technologies, such as SQL and NoSQL databases\n*   Salesforce development experience and certifications\n*   Familiar with version control systems, such as Git  \n      \n    \n\nAdditional Information  \n  \n**Employment Benefits  \n  \n**Along with an incredibly unique opportunity that offers an unmatched potential for personal and professional growth, RadialSpark offers a fun and casual work environment that provides each team member with the best tools and proper support to do amazing and rewarding work. In addition, we offer all employees the following benefits:  \n\n*   Multiple Health Insurance Plans\n*   Competitive 401(k) Matching\n*   Generous Paid Time Off (PTO) Policy\n*   Flexible Work Schedule\n*   And so much more!  \n    \n\nRadialSpark is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status.  \n  \nAll your information will be kept confidential according to EEO guidelines.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services",
+          "Computer Software",
+          "Management Consulting"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "React UI Developer",
+    "company": "Fortune 100 Company",
+    "descriptionMarkdown": "**Job Title: React UI Developer**\n\n**Location: Chandler, AZ**\n\n  \n\n**Job Desc:** \n\nThe UI team is looking to augment their team to build more UI components in their existing ReactJS framework. Besides the regular components, the candidate will also be building animations such as spinners, flips, auto scrollbar, animated hamburger menu, etc.\n\n  \n\n**Job Requirements:** \n\n5+ years experience of JavaScript\n\n3+ years of ReactJS\n\n5+ years of HTML5 \n\n2+ years of CSS3\n\n  \n\n**About Intra Edge:**\n\nIntra Edge is the large technology talent, services and training organization that functions with the agility of a significantly smaller firm. We provide our clients with the resources and expertise to enhance business performance through technology. We give our people the opportunity to grow in their fields, with the freedom to excel.\n\nFounded in 2002 in Phoenix, AZ, we’ve got a national and international scope and reach, backed by decades of experience and deep domain expertise in technology innovation for verticals including finance, education, and transportation. By streamlining processes and accelerating time to value, we position both our people and our clients for success. As a technology company that is built on relationships, we’re always innovating to deliver benefits for the long term.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Mid-Senior level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Contract"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology",
+          "Customer Service",
+          "Other"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Financial Services"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Investis Digital",
+    "descriptionMarkdown": "Full Stack Web Developer – PHP / MySQL  \n  \nPurpose  \n\n*   An experienced web developer to build web applications and tools\n*   Working along with project manager to develop and maintain websites for clients  \n    \n\n**Responsibilities  \n**\n\n*   Take the ownership for the complete web delivery\n*   Responsibility of communicating technical challenges to clients and other stakeholders\n*   Translate specifications from analysts and graphic designers into working applications\n*   Develop and maintain code to a high standard within IT development and maintenance projects.\n*   Troubleshoot and problem-solve support issues as they arise\n*   Participate in task and project estimation with project manager and team leads and other project development life cycle ceremonies\n*   Perform unit testing of work\n*   Custom component and tool development that can assist the SEO, Analytics and Sales teams  \n    \n\nCore Technical Skills  \n\n*   Have strong, demonstratable experience in the following technologies\n*   PHP\n*   MySQL\n*   Twig/Symphony\n*   Have experience of the following technologies\n*   Gulp/SCSS/Grunt\n*   HTML/CSS/JavaScript\n*   Experience of git and other build tools like Jenkins\n*   Experience of working with cloud environments like AWS/Azure\n*   Experience of MVC Framework (Preference would be for Symphony).\n*   Experienced within Agile/Scrum or other development processes\n*   Be organised, resourceful, confident, proactive and self-starter\n*   Have a good understanding of complex web technology and environments\n*   Show a good attention to detail\n*   Be able to plan and estimate for build and support tasks\n*   Have good problem-solving abilities, think laterally, be calm under pressure and have attention to detail  \n    \n\nNice-to-Have Technical Skills  \n\n*   WordPress\n*   Drupal 8\n*   Twig/Symphony",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Internet",
+          "Information Technology and Services",
+          "Computer Software"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "",
+    "descriptionMarkdown": "The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next-generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects. Most graphic designs will be supplied by us. Here, at Underground Street Apparel, we are looking to contract a web developer. Instead of a normal payment - because of the start-up budget - we are looking to offer one time job to build our website and receive a payment of shares in the company or a percentage of the gross domestic sales until the normal pay wage is fulfilled. This position can lead to a full-time job if fulfillments are met and the job is well done.\n\n**Responsibilities**\n\n*   Revise, edit, proofread & optimize web content\n*   Work with cross-functionally to enhance the overall user experience of our platforms\n*   Own various design tasks involved in the web development life cycle from start to finish\n\n  \n\n**Qualifications**\n\n*   Bachelor's degree or equivalent experience in Computer Science\n*   At least 1 - 2 years' of experience using HTML, CSS, and JavaScript\n*   Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)\n*   Ability to multi-task, organize, and prioritize work\n*   Must be able to develop a retail website\n*   Knowledge of website crashes and continuing maintenance",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Contract"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Design Pickle",
+    "descriptionMarkdown": "**About This Role  \n  \n**Hello prospective pickle! Design Pickle is expanding our product engineering team and looking for a Ruby on Rails Engineer to keep our product moving forward with beautiful and clean code.  \n  \nThis is a unique opportunity to join a growing tech-enabled services company that is well-positioned to grow further onto the international stage.  \n  \n**Reports to**: Lead Engineer  \n  \n**On a daily basis, works closely with**: Product team, and cross functional with Marketing, Sales, and Customer Success  \n  \n**Location**: Design Pickle is a fully remote company with a Company Hub in Scottsdale, Arizona.  \n  \n**Who We Are Looking For  \n  \n**First, Design Pickle is anything but typical. We're a group of hard-working, creativity-loving individuals from around the world.  \n  \nDo we love pickles, too? Most of us! But don't stress if pickles aren't your thing. It's not a deal-breaker. We do look for a passion and interest in something though because our employees' uniqueness is what helped make us the great company we are today.  \n  \nWe stand by our vision, purpose, and values, and these are mission-critical to how you show up every single day.  \n  \n**Specific to your role, we're looking for individuals who have...  \n**\n\n*   Have at least 2 or more years of Ruby on Rails, React, or front-end coding languages experience in a professional setting or relevant equivalent\n*   Have a proven track record of getting things done, you're organized as hell and completely goal and project-oriented\n*   Know how to handle high volume, consumer-facing websites. Even better if you have worked on subscription-based sites or SaaS business structure\n*   Excel at working independently and as a member of a small team\n*   Possess the ability to clearly communicate and identify areas of improvement and provide appropriate solutions with code\n*   Can show a breadth of technical knowledge which you use to contribute to the direction of other professional environments and developmental processes\n*   Are familiar with tools like Rails 5, Javascript, HTML/CSS, Git, and PostgreSQL  \n      \n    \n\n**Bonus Pickle Points  \n**\n\n*   An astute eye for process improvements\n*   Proven track record of building and/or improving company culture.\n*   Exceptional written communication - we're a remote first company so effective communication is vital\n*   Familiarity with the Entrepreneurial Operating System (EOS™).  \n      \n    \n\n**Key Objectives And Responsibilities  \n  \n**As a fast-growing company, our roles are always evolving. However, we want you to know exactly what you're walking into. In the first 90-days, here is a preview of what's expected:  \n\n*   Develop features using maintainable, readable, modular, and easy to change code\n*   Release code that is free of errors\n*   Continue to learn new technologies and techniques to improve the existing code base\n*   Expand on and build Design Pickle's Platform and our sister companies - JARHQ and FreshStock into usable products that interfaces client needs\n*   Revamp Design Pickle's platform to be a seamless user experience with back end functionality  \n      \n    \n\n**Benefits, Compensation, And Perks  \n  \n****Uncapped PTO**: Hate seeing your PTO hours decrease as the year goes on? Not anymore! There is no cap or number associated with the amount of PTO days you can request.  \n  \n**Major medical healthcare**: We offer Bronze, Silver, and Gold major medical plans through United Healthcare which is managed seamlessly through Gusto.  \n  \n**Dental and vision insurance**: We work with Beam Dental and VSP for ancillary coverage.  \n  \n**Remote-work flexibility**: More productive at home? Not based in Scottsdale, AZ? Fine with us! We are a remote-first company with people all over the country.  \n  \n**World-class Company Hub**: More productive in an office? Also, fine with us! Our Company Hub is set up with state-of-the-art standing desks, high-definition monitors, breakout rooms for meetings and calls, a podcast studio, a relaxation room, a merch wall, and a cold plunge! ....yes, we said a cold plunge.  \n  \n**In-office gym**: Our Company Hub also has a small CrossFit-style gym available for any pickles to use!  \n  \n**New parent leave**: Design Pickle encourages all primary caregivers to take up to 8 weeks leave for a new family member, including adoption, at full salary.  \n  \n**Paid training and personal development**: We offer a yearly stipend for employees to continue to grow their skillset and learn things to help them in their careers.  \n  \n**Stock option potential**: We give our tenured staff a stake in what we're building here.  \n  \n**Pet insurance**: Have a furry friend? Design Pickle offers pet insurance through United Pet Care for discounted vet visits, medication, and procedures.  \n  \n**Team retreats, social events, and adventures**: Pickle collaboration is important to us! We host regular social events, get-togethers, and experiences for our staff.  \n  \n**About Design Pickle  \n  \n**Design Pickle was founded in 2015 with a vision to change lives through its creative software, solutions, and services. Since then, the company has grown to be the #1 flat-rate creative services company in the world. We have served tens of thousands of clients with a team that spans the globe.  \n  \nIn 2019 & 2020, Inc. 5000 listed Design Pickle as one of the fastest-growing companies in America.  \n  \nWe are a company that takes our core values to heart:  \n  \n**Friendly  \n  \n**We aim for Mister-Rogers-Level friendliness; every interaction comes from a place of inclusion, empathy, kindness, and respect.  \n  \n**Smart-Working  \n  \n**We are resourceful, efficient, and committed to constant improvement by leveraging our time, technology, and resources.  \n  \n**Truth  \n  \n**We speak from the heart, operate with integrity, and guide every decision, conversation, and action with honesty (even when no one is looking).  \n  \n**Service  \n  \n**We embrace our collective responsibility to delight customers, support our teammates, and give back to the community.  \n  \n**Tenacious  \n  \n**We are ambitious creators with grit by the jarful. We take ownership of our decisions and grow from our mistakes.  \n  \nYou can learn more about our company, our vision, and what we stand for on our website and social channels. We can't wait to meet you-thank you in advance for your application!",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Entry level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Engineering",
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Marketing and Advertising",
+          "Computer Software",
+          "Internet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Front-End Developer (React)",
+    "company": "PDS",
+    "descriptionMarkdown": "Overview\n\n*   Our client is looking for a dynamic Front-End Developer who has strong experience working with React.\n\n  \n\nAs a Front-End Developer you will:\n\n*   Lead the development of next generation responsive web applications.\n*   Design and develop clean, reusable code while building web applications with React, Node and other modern front-end technologies.\n*   Work cross-functionally with various Development, QA and Integration teams.\n*   Evangelize performance and scalability across all dev teams. \n\n  \n\nDo you have the right skillset?\n\n*   3-5+ years' experience with Front-End Development.\n*   2-3+ years' experience with modern Single Page App frameworks.\n*   Strong experience with React, JavaScript, HTML 5 & CSS3.\n*   Experience with Web Services and Web API Development.\n*   Experience in Agile environments.\n*   Experience with Node preferred.",
+    "criteria": [
+      {
+        "name": "Seniority level",
+        "value": [
+          "Mid-Senior level"
+        ]
+      },
+      {
+        "name": "Employment type",
+        "value": [
+          "Full-time"
+        ]
+      },
+      {
+        "name": "Job function",
+        "value": [
+          "Information Technology"
+        ]
+      },
+      {
+        "name": "Industries",
+        "value": [
+          "Information Technology and Services"
+        ]
+      }
+    ]
+  }
+]
+Done in 4.38s.
