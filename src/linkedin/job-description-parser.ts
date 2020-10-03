@@ -14,7 +14,7 @@ export type JobDescription = {
     criteria: JobCriteriaItem[]
 }
 
-function JobCriteriaListParser($: cheerio.Cheerio): JobCriteriaItem[] {
+function jobCriteriaListParser($: cheerio.Cheerio): JobCriteriaItem[] {
     return $.find('.job-criteria__item').toArray().map((element) => {
         const $ = cheerio.load(element);
         
@@ -25,7 +25,7 @@ function JobCriteriaListParser($: cheerio.Cheerio): JobCriteriaItem[] {
     })
 }
 
-export default function JobDescriptionParser(html: string): JobDescription {
+export default function jobDescriptionParser(html: string): JobDescription {
     const $ = cheerio.load(html);
     
     const descriptionHtml = $('.show-more-less-html__markup').html() || '';
@@ -33,6 +33,6 @@ export default function JobDescriptionParser(html: string): JobDescription {
         title: $('.topcard__title').text(),
         company: $('.topcard__org-name-link').text(),
         descriptionMarkdown: new turndown().turndown(descriptionHtml),
-        criteria: JobCriteriaListParser($('.job-criteria__list'))
+        criteria: jobCriteriaListParser($('.job-criteria__list'))
     }
 }

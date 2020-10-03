@@ -1,6 +1,6 @@
-import axios from 'axios'
-import JobDescriptionParser from './job-description-parser';
-import SearchResultsParser, { JobSearchItem } from './search-parser';
+import axios from 'axios';
+import searchResultsParser, { JobSearchItem } from './search-parser'
+import jobDescriptionParser from './job-description-parser'
 
 export interface HttpFetcher {
     get(url: string): Promise<{
@@ -11,29 +11,42 @@ export interface HttpFetcher {
 export default class LinkedInAPI {
     private httpFetcher: HttpFetcher;
 
-    constructor(fetcher: HttpFetcher) {
-        this.httpFetcher = fetcher;
+    constructor(fetcher?: HttpFetcher) {
+        if(!fetcher) {
+            this.httpFetcher = axios;
+        }
+        else {
+            this.httpFetcher = fetcher;
+        }
     }
 
-    public async GetSearchResults(params: { location: string, keywords: string, starting: number }) {
+    public getFetcher() {
+        return this.httpFetcher;
+    }
+
+    public async getSearchResults(params: { location: string, keywords: string, starting?: number }) {
+        if (params.starting === undefined) {
+            params.starting = 0;
+        }
+
         const route = `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=${params.keywords}&location=${params.location}&start=${params.starting}`
         const response = await this.httpFetcher.get(route);
 
-        return SearchResultsParser(response.data)
+        return searchResultsParser(response.data)
     }
 
-    public async GetJobDescription(parameter: string | JobSearchItem) {
+    public async getJobDescription(jobID: string | JobSearchItem) {
         let id = '';
-        if (typeof (parameter) === 'string') {
-            id = parameter;
+        if (typeof (jobID) === 'string') {
+            id = jobID;
         }
         else {
-            id = parameter.id
+            id = jobID.id
         }
 
         const route = `https://www.linkedin.com/jobs/view/${id}`;
         const response = await this.httpFetcher.get(route);
 
-        return JobDescriptionParser(response.data);
+        return jobDescriptionParser(response.data);
     }
 }

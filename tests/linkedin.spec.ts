@@ -1,7 +1,7 @@
-import SearchParser, { JobSearchItem } from '../src/linkedin/search-parser'
+import searchParser, { JobSearchItem } from '../src/linkedin/search-parser'
 import fs from 'fs'
 import LinkedInAPI, { HttpFetcher } from '../src/linkedin/api';
-import JobDescriptionParser, { JobDescription } from '../src/linkedin/job-description-parser';
+import jobDescriptionParser, { JobDescription } from '../src/linkedin/job-description-parser';
 
 function openTestFile(path: string) {
     return fs.readFileSync(path).toString();
@@ -52,21 +52,25 @@ describe('LinkedIn', () => {
 
     describe('Search Parser', () => {
         test('Parse search results HTML and return a list of JobSearchItem', () => {
-            const results = SearchParser(sampleSearchHtml);
+            const results = searchParser(sampleSearchHtml);
             validateParsedSampleSearchHtmlResults(results);
         })
     })
 
     describe('Job Description Parser', () => {
         test('Parse Job Description HTML and return a JobDescription', () => {
-            validateParsedSampleDescriptionHtmlResults(JobDescriptionParser(sampleDescriptionHtml));
+            validateParsedSampleDescriptionHtmlResults(jobDescriptionParser(sampleDescriptionHtml));
             //Jobs with no description should return an empty string
-            const result = JobDescriptionParser(sampleDescriptionHtmlWithoutDescription);
+            const result = jobDescriptionParser(sampleDescriptionHtmlWithoutDescription);
             expect(result.descriptionMarkdown).toEqual('');
         });
     })
 
     describe('Api', () => {
+        test('LinkedInApi constructer with no httpFetcher should set a default httpFetcher', () => {
+            const api = new LinkedInAPI();
+            expect(api.getFetcher()).not.toBeUndefined();
+        })
         test('Fetch search results and return JobSearchItem[]', async () => {
             const mockFetcher: HttpFetcher = {
                 get: async (url: string) => {
@@ -76,12 +80,16 @@ describe('LinkedIn', () => {
                 }
             }
             const api = new LinkedInAPI(mockFetcher);
-            const results = await api.GetSearchResults({
+            validateParsedSampleSearchHtmlResults(await api.getSearchResults({
                 location: 'remote',
                 keywords: 'javascript',
                 starting: 0
-            });
-            validateParsedSampleSearchHtmlResults(results);
+            }));
+            //Test default starting value (should be 0)
+            validateParsedSampleSearchHtmlResults(await api.getSearchResults({
+                location: 'remote',
+                keywords: 'javascript',
+            }));
         })
         test('Fetch Job Description results and return JobDescription', async () => {
             const mockFetcher: HttpFetcher = {
@@ -93,8 +101,8 @@ describe('LinkedIn', () => {
             }
             const api = new LinkedInAPI(mockFetcher);
 
-            validateParsedSampleDescriptionHtmlResults(await api.GetJobDescription(''));
-            validateParsedSampleDescriptionHtmlResults(await api.GetJobDescription({title: '', company: '', id: ''}));
+            validateParsedSampleDescriptionHtmlResults(await api.getJobDescription(''));
+            validateParsedSampleDescriptionHtmlResults(await api.getJobDescription({ title: '', company: '', id: '' }));
         })
     })
 })

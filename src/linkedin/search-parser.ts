@@ -6,7 +6,7 @@ export type JobSearchItem = {
     id: string;
 }
 
-export function SearchResultItemParser(element: cheerio.Element): JobSearchItem {
+export function searchResultItemParser(element: cheerio.Element): JobSearchItem {
     const $ = cheerio.load(element);
     return {
         title: $('.job-result-card__title').text(),
@@ -15,8 +15,8 @@ export function SearchResultItemParser(element: cheerio.Element): JobSearchItem 
     }
 }
 
-export default function SearchResultsParser(html: string): JobSearchItem[] {
+export default function searchResultsParser(html: string): JobSearchItem[] {
     const $ = cheerio.load(html);
     const jobListItems = $('li');
-    return jobListItems.toArray().map(SearchResultItemParser);
+    return jobListItems.toArray().map(searchResultItemParser);
 }
