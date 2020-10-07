@@ -1,11 +1,7 @@
 import searchParser, { JobSearchItem } from '../src/linkedin/search-parser'
-import fs from 'fs'
 import LinkedInAPI, { HttpFetcher } from '../src/linkedin/api';
 import jobDescriptionParser, { JobDescription } from '../src/linkedin/job-description-parser';
-
-function openTestFile(path: string) {
-    return fs.readFileSync(path).toString();
-}
+import { openTestFile } from './test-util'
 
 describe('LinkedIn', () => {
     const sampleSearchHtml = openTestFile(`${__dirname}/test_data/linkedin-search-page-results.html`);

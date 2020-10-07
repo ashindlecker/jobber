@@ -1,16 +1,21 @@
 {
   "name": "jobberjs",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "3rd party library for retrieving jobs from job boards",
   "license": "MIT",
   "author": "Austin Shindlecker",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashindlecker/jobber.git"
+  },
   "scripts": {
     "start": "ts-node src",
     "test": "jest",
     "coverage": "jest --coverage",
     "docs": "typedoc --out ./docs",
-    "docs:md": "typedoc --out ./docs --plugin typedoc-plugin-markdown"
+    "docs:md": "typedoc --out ./docs --plugin typedoc-plugin-markdown",
+    "build": "tsc"
   },
   "types": "dist/index.d.ts",
   "devDependencies": {
@@ -35,6 +40,7 @@
   "keywords": [
     "LinkedIn",
     "Job Search",
-    "Job Boards"
+    "Job Boards",
+    "Indeed"
   ]
 }

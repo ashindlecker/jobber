@@ -20,7 +20,7 @@ class Scraper {
     constructor(api: LinkedInAPI) {
         this.api = api;
     }
-
+    
     public async scrape(params: ScrapeParameters) {
         const searchItems = await this.api.getSearchResults(params.searchParams);
         const results = await Promise.all(searchItems.map((s) => {
