@@ -1,5 +1,5 @@
 # Jobber
-#### 3rd party library to fetch jobs from LinkedIn
+#### 3rd party library to fetch jobs from LinkedIn and Indeed
 <br/>
 
 ## Installation
